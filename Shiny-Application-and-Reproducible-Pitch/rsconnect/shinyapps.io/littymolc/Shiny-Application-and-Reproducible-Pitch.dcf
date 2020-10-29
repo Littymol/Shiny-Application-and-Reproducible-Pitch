@@ -4,9 +4,9 @@ username:
 account: littymolc
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 3125162
-bundleId: 3798527
+appId: 3125370
+bundleId: 3798613
 url: https://littymolc.shinyapps.io/Shiny-Application-and-Reproducible-Pitch/
-when: 1604009965.97189
+when: 1604012012.28269
 asMultiple: FALSE
 asStatic: FALSE

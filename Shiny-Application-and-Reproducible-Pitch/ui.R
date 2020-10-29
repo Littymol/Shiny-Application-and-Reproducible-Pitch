@@ -21,8 +21,11 @@ shinyUI(fluidPage(theme = shinytheme("superhero"),
                              
                              tabPanel("Summary",
                                       mainPanel(
+                                          h1("Instructions:"),
+                                          h4("- Select diamonds attributes from dropdown in the sidebarPanel "),
+                                          h4("- The mainPanel will display the plot for corresponding dataframe."),
                                           h1("Diamonds Dataset"),
-                                          h2("Prices of over 50,000 round cut diamonds"),
+                                          h4("Prices of over 50,000 round cut diamonds"),
                                           h3("Description"),
                                           h6(" A dataset containing the prices and other attributes of almost 54,000 diamonds."),
                                           h3("Format"),
